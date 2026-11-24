@@ -1,0 +1,3 @@
+Evaluated split: test (359 images)
+Mask mAP50: 0.120323
+Mask mAP50-95: 0.068947

@@ -1,0 +1,4 @@
+Evaluated split: test
+Box mAP50-95: 0.147399
+Mask mAP50: 0.198622
+Mask mAP50-95: 0.125976
